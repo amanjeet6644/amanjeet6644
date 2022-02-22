@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AmanJeet Singh
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently working as FreeLancer
+- 🌱 I’m currently working as FreeLancer on UpWork.com
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 
 
